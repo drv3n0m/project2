@@ -1,0 +1,82 @@
+
+
+#logo-resize{
+    width: 291px;
+    height: 40px;
+}
+
+#header-background{
+    background-color: #FFFFF4;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+h1{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    line-height: 1;
+}
+
+h2{
+    color: #363958;
+}
+
+.highlight1{
+    color: #76C27E;
+}
+
+    .btn-mod{
+        background-color: #2A1E59;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 14px 34px;
+        cursor: pointer;
+        font-weight: 600;
+      }
+      .btn-mod img{
+        width: 35px;
+      }
+
+    img{
+          width: 100%;
+          
+      }
+     p{
+         color:#3E3E3E;
+         font-weight: 500;
+     }
+
+     .pic-resize{
+         width: 71px;
+         height: 76px;
+     }
+
+     .radius{
+         border-radius: 20px;
+     }
+     
+     .backpack-card{
+         border: 0;
+         padding: 0
+
+     }
+     .backpack-card-footer{
+        border: 0;
+        background-color: white;
+        padding: 0;
+    }
+    .gap {
+        width: 90%;
+        border-radius: 20px;
+        margin: 15px auto;
+    }
+
+    .dollar{
+        font-size: 36px;
+        font-weight: 900;
+        color: #76C27E;
+    }
